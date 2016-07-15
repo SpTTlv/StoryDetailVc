@@ -1,0 +1,2 @@
+# StoryDetailVc
+cell contains tableView
